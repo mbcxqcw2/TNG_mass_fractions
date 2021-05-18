@@ -1,0 +1,1 @@
+This repo iss an attempt to recreate the IllustrisTNG evolving baryonic mass fraction plots from Figure 2 in Martizzi+19 (https://arxiv.org/abs/1810.01883) and Figure A.1 from Artale+21 (https://arxiv.org/abs/2102.01092)
